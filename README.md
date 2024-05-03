@@ -12,7 +12,7 @@ Hey there! Welcome to my repository for Lab Project of EE 337: Microprocessors L
 - Plotted and analyzed the results using Python libraries.
 
 ## What You'll Find
-In this repository, you'll find all the code, documentation, and resources related to this project.
+In this repository, you'll find all the code, documentation, and resources related to [This Project](https://github.com/brycisliova/Low-Pass-Digital-FIR-Filter/blob/main/Lab_Project.pdf).
 
 ## How You Can Use It
 Feel free to explore the code and documentation to understand how the project is done. If you're working on a similar project or want to learn more about digital signal processing, this repository can serve as a small resource for you.
